@@ -50,14 +50,14 @@ Vector Storage: FAISS
 
 ## Quick Start
 
-Install Dependencies:
+Install Dependencies: 
 
 Bash
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 Set API Key:
 Set your GOOGLE_API_KEY in your environment.
 
 Run the Project:
 
 Bash
-python main.py
+'''python main.py'''
