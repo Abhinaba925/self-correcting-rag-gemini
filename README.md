@@ -63,7 +63,7 @@ Here's the step-by-step journey of a question through our system:
 
     # 🤖💬 A Conversation in Self-Correction: The Smarter RAG
 
-Imagine two AI agents, **Generator (Gen)** and **Judge (Jud)**, collaborating to answer a user's question.
+To understand the idea in simple words follow the chat..Imagine two AI agents, **Generator (Gen)** and **Judge (Jud)**, collaborating to answer a user's question.
 
 ---
 
